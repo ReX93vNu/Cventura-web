@@ -1,0 +1,116 @@
+*{
+    font-family: sans-serif; 
+    color: aliceblue;
+}
+
+
+.navbar {
+    width: 100%;
+    margin: auto;
+    margin-left: -15px;
+    padding: 5px 5px;
+    align-items: center;
+    top: 0px;
+    position: absolute;
+    display: flex;
+    height: 65px;
+    background: rgba(8, 14, 44, 0.9);
+    
+    
+}
+
+.logo {
+    margin: 0px 675px 0px 25px;
+    height: 70px;
+    width: 100px;
+    border-radius: 20px;
+}
+.searchbar {
+    width: 500px;
+    height: 25px;
+    border-radius: 15px;
+    border: 1px #000 solid;
+    padding: 5px 5px 5px 25px;
+    
+}
+
+.bottom {
+    
+    width: 100%;
+    margin: auto;
+    margin-left: -15px;
+    padding: 5px 5px;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    background: rgba(8, 14, 44, 0.9);
+}
+
+.row {
+    
+    margin: 90px 0px 50px 100px;
+       
+}
+
+.rows {
+    float: left;
+    margin-right: 50px;
+    position: static;
+    
+}
+
+
+.big {
+    width: 400px;
+    height: 250px;
+}
+
+
+.Prows {
+    
+    float: left; 
+    height: 60px;
+    width: 60px;
+    margin: 10px 10px 10px 10px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.smol {
+    flex-shrink: 100;
+    min-width: 100%;
+    min-height: 100%
+    
+}
+
+.btns {
+    margin-top: -3px;
+    margin-left: 20px;
+    width: 100px;
+    height: 40px;
+    background: rgba(52, 45, 113, 0.8);
+    border: none;
+    border-radius: 5px;
+}
+
+.input {
+    background: rgba(52, 45, 113, 0.5);
+   border: none;
+   border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
