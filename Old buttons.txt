@@ -1,0 +1,16 @@
+<div class="products">
+            <img src="products.jpg" class="pic">
+            <div class="desc"><p>Product name</p></div>
+            <div class="add button"><button>Add to cart</button></div>
+        </div>
+
+
+
+.products {
+  float: left;
+  width: 50.50%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    margin: 50px;
+    padding: 10px;
+    border: 1px solid #000;
+    width: 150px;
+    height: 110px;

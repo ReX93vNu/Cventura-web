@@ -1,0 +1,115 @@
+* {
+   font-family: sans-serif; 
+    color: aliceblue;
+}
+
+
+.navbar {
+    width: 100%;
+    margin: auto;
+    margin-left: -15px;
+    padding: 5px 5px;
+    align-items: center;
+    top: 0px;
+    position: absolute;
+    display: flex;
+    height: 65px;
+    background: rgba(8, 14, 44, 0.9);
+    
+}
+
+.logo {
+    margin: 0px 675px 0px 25px;
+    height: 70px;
+    width: 100px;
+    border-radius: 20px;
+}
+.searchbar {
+    width: 500px;
+    height: 25px;
+    border-radius: 15px;
+    border: 1px #000 solid;
+    padding: 5px 5px 5px 25px;
+    
+}
+
+.box1{
+    float: left;
+    margin: 66px 50px -5px -10px;
+    padding: 30px;
+    width: 100px;
+    height: 510px;
+    background: rgba(8, 14, 44, 0.7);
+    border-bottom-right-radius: 10px;
+    
+}
+
+.minmax {
+   width: 100px;
+   background: rgba(52, 45, 113, 0.5);
+   border: none;
+   border-radius: 5px;
+}
+
+
+.cat {
+    align-content:center;
+    margin-top: 25px;
+    border: none;
+    border-radius: 10px;
+    background: rgba(8, 14, 44, 0.4);
+    
+}
+
+
+.products {
+
+    width: 200px;
+    height: 220px;
+    margin: 50px 21px 0 0;
+    background: rgba(52, 45, 113, 0.5);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+
+.pic {
+    width: 180px;
+    height: 120px;
+    object-fit: contain;
+    
+}
+
+.pages {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+        
+}
+
+.bottom {
+    
+    width: 100%;
+    margin: auto;
+    margin-left: -15px;
+    padding: 5px 5px;
+    height: 100px;
+    position: absolute;
+    background: rgba(8, 14, 44, 0.9);
+}
+
+.pbtns {
+    border: none;
+    border-radius: 5px;
+    background: rgba(8, 14, 44, 0.6);
+}
+
+
+
+
+
+
+
+
